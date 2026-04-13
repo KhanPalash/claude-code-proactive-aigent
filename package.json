@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-proactive-aigent",
+  "version": "1.0.0",
+  "description": "Claude Code plugin for Proactive AIgent",
+  "main": "index.js",
+  "keywords": ["claude-code", "plugin", "telegram", "scheduler"],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "proactive-aigent": "^1.0.0"
+  }
+}

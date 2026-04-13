@@ -1,0 +1,12 @@
+{
+  "name": "proactive-aigent",
+  "version": "1.0.0",
+  "description": "Schedule Telegram messages with natural language",
+  "skills": [
+    {
+      "name": "proactive-aigent",
+      "path": "skills/proactive-aigent.md",
+      "description": "Manage Telegram message schedules"
+    }
+  ]
+}
