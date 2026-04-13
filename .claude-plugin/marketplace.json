@@ -1,0 +1,21 @@
+{
+  "name": "proactive-aigent-local",
+  "version": "1.0.0",
+  "description": "Local plugin for proactive-aigent",
+  "owner": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "plugins": [
+    {
+      "name": "proactive-aigent",
+      "source": "./",
+      "description": "Proactive schedule manager for Telegram messages",
+      "version": "1.0.0",
+      "author": {
+        "name": "Your Name",
+        "email": "your.email@example.com"
+      }
+    }
+  ]
+}
