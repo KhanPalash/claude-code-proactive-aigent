@@ -1,12 +1,19 @@
 {
   "name": "proactive-aigent",
   "version": "1.0.0",
-  "description": "Schedule Telegram messages with natural language",
-  "skills": [
-    {
-      "name": "proactive-aigent",
-      "path": "skills/proactive-aigent.md",
-      "description": "Manage Telegram message schedules"
-    }
-  ]
+  "description": "Proactive schedule manager for Telegram messages",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "homepage": "https://github.com/KhanPalash/claude-code-proactive-aigent",
+  "repository": "https://github.com/KhanPalash/claude-code-proactive-aigent",
+  "license": "MIT",
+  "keywords": [
+    "telegram",
+    "scheduler",
+    "automation",
+    "claude-code"
+  ],
+  "skills": "skills/"
 }
